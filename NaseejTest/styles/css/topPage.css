@@ -1,0 +1,79 @@
+﻿.custom-nav-bar{
+    min-height: 10px;
+    height: 35px;
+    background: transparent;
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 1%;
+    padding: -2.5%;
+}
+
+.icon-baritem{
+    color:lightgray;
+    font-weight:200;
+    padding-right: 9px;
+    margin-top: 5px;
+}
+
+#naseejLogo{
+    width: 120px !important;
+   margin-top: -17px;
+   margin-left: 5%;
+}
+
+.carousel-indicators > li{
+    background-color:white !important;
+}
+
+.carousel-inner{
+    width:47%;
+}
+
+
+.roundedImgSlider {
+    border-radius: 13px !important;
+}
+
+.article-container div {
+    background:transparent !important;
+    border:none;
+    color:white !important;
+}
+
+.article-container{
+    background: transparent;
+    border:none;
+}
+
+.article-heading{
+    font-size: 24px;
+    text-align: right;
+}
+
+
+.article-body {
+   direction: rtl;
+    unicode-bidi: bidi-override;
+    width: 352.25px;
+    height: 89px;
+    line-height: 24px;
+    overflow: hidden;
+    position: relative;
+}
+    
+.article-body:after {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    content: '. . .';
+}
+
+#btn-readmore {
+   border-radius: 30px;
+    padding: 5px 22px;
+}
+#localizationBtn {
+    font-family: sans-serif;
+    font-size: 15px;
+}

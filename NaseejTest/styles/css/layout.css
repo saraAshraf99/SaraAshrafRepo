@@ -1,0 +1,35 @@
+﻿body {
+    padding-bottom:10px;
+    box-sizing:border-box !important;
+    min-width:5%;
+    color:white;
+    font-family:GE_SS_Two_Light;
+    overflow-y: hidden;
+}
+
+.l-header-bg {
+    background-image: url('../images/cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.l-left-padding{
+    padding-left: 3%;
+}
+
+
+
+.topContainer{
+    min-height:320px;
+    height: auto;
+}
+
+.bottomContainer{
+   min-height: 500px;
+    height: auto;
+}
+
+.pre-scrollable{
+   height:auto !important;
+   overflow-x: hidden;
+}
